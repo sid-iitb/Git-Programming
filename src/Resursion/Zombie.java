@@ -5,8 +5,6 @@
  */
 package Resursion;
 
-import java.util.HashSet;
-
 /**
  *
  * @author sidhsaho
@@ -18,6 +16,6 @@ public class Zombie {
     }
     
     static int zombieCluster(String[] zombies) {
-        
+        return 0;
     }
 }

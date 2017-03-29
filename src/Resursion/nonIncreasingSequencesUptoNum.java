@@ -8,7 +8,7 @@
  *
  * @author sidhsaho
  */
-package recursion;
+package Resursion;
 public class nonIncreasingSequencesUptoNum {
     public static void main(String args[])
     {

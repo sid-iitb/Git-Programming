@@ -141,7 +141,7 @@ class BinaryTree
         root=insert(root,9);
         root=insert(root,17);
         root=insert(root,20);
-        System.out.println(printBinaryTree(root));
+        //System.out.println(printBinaryTree(root));
         System.out.println("The inorder traversal");
         inorder(root);
         //System.out.println("The pre-order traversal");
